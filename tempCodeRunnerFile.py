@@ -1,0 +1,1 @@
+db.row_factory = sqlite3.Row
